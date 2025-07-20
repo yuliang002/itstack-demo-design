@@ -16,7 +16,7 @@
         <jdk.version>1.8</jdk.version>
         <sourceEncoding>UTF-8</sourceEncoding>
         <!-- Open Service -->
-        <commons-lang3.version>3.8.1</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <fastjson.version>1.2.60</fastjson.version>
         <junit.version>4.12</junit.version>
         <logback.version>1.0.9</logback.version>
